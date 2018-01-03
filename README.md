@@ -21,7 +21,7 @@ bot有3個需要選擇的項
 
 ***
 
-bot在/start之後會在distance，此時可以輸入near或far選擇距離，near是育樂街範圍，far是離開育樂街範圍但都是騎車5分鐘以內的範圍。選擇距離後會進入price(有price1,price2)，可以輸入100down或100up選擇價位為100元以下或以上。選擇價位後會進入category(有category1~category4)，可以輸入noodles或rices選擇種類為吃面或吃飯。最後會進入state(有state1~state8)，會對應你的選擇給出對應的餐店介紹網站，可以點擊連結或輸入selectagain回到distance重新選擇。
+bot在/start之後會在distance，此時可以輸入near或far選擇距離，near是育樂街範圍，far是離開育樂街範圍但都是騎車5分鐘以內的範圍。選擇距離後會進入price(有price1,price2)，可以輸入100down或100up選擇價位為100元以下或以上。選擇價位後會進入category(有category1到category4)，可以輸入noodles或rices選擇種類為吃面或吃飯。最後會進入state(有state1到state8)，會對應你的選擇給出對應的餐店介紹網站，可以點擊連結或輸入selectagain回到distance重新選擇。
 
 * 進入price的2個state會跳出"select price:'100up' or '100down' or 'selectagain'"的訊息
 * 進入category的4個state會跳出"select 'noodles' or 'rices' or 'selectagain'"的訊息
