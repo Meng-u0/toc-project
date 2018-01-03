@@ -25,7 +25,7 @@ bot在/start之後會在distance，此時可以輸入near或far選擇距離，ne
 
 * 進入price的2個state會跳出"select price:'100up' or '100down' or 'selectagain'"的訊息
 * 進入category的4個state會跳出"select 'noodles' or 'rices' or 'selectagain'"的訊息
-* 進入state的8個state會跳出"*相應的餐店的介紹網頁* or 'select again'"
+* 進入state的8個state會跳出"*相應餐店的介紹網頁* or 'select again'"
 * 在除了distance的任何state輸入selectagain回到distance時會跳出"select distance:'near' or 'far'"
 
 ***
